@@ -1,8 +1,4 @@
 import java.util.Scanner;
-
-/**
- * TravelItineraryPlanner
- */
 public class TravelItineraryPlanner {
 
     public static void main(String[] args) {
